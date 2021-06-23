@@ -92,9 +92,9 @@ status-website:
     - title: Status
       href: /
     - title: Contact
-      href: https://tonicpow.com/#contact
-    - title: Code
-      href: https://github.com/$OWNER/$REPO
+      href: 'javascript:drift.api.widget.show()'
+    - title: Slack
+      href: https://join.slack.com/t/tonicpow/shared_invite/zt-mlccqx28-IEabvOGPx_QLyFJJbWE3hQ
 
 # Internationalization
 i18n:
