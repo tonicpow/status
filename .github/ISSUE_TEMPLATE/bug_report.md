@@ -7,7 +7,7 @@ assignees: 'mrz1836'
 
 ---
 
-<!-- If you have a question, you should use Discussions instead: https://github.com/upptime/upptime/discussions -->
+<!-- If you have a question, you should use Discussions instead: https://github.com/tonicpow/status/discussions -->
 
 **Describe the bug**
 A clear and concise description of what the bug is.
