@@ -11,6 +11,9 @@ assignees:
 # Custom user agent
 user-agent: TonicPow Status
 
+# Skip build processes on readme
+skipDescriptionUpdate: true
+
 # Report on sites
 sites:
   - name: TonicPow
@@ -19,7 +22,13 @@ sites:
     maxResponseTime: 8000
     expectedStatusCodes:
       - 200
-  - name: Tpow
+  - name: TonicPow API
+      url: https://api.tonicpow.com
+      icon: https://tonicpow.com/favicon-32x32.png
+      maxResponseTime: 4000
+      expectedStatusCodes:
+        - 200
+  - name: Tpow Link Service
     url: https://tpow.app
     icon: https://tonicpow.com/favicon-32x32.png
     maxResponseTime: 8000
@@ -41,12 +50,18 @@ status-website:
   favicon: https://tonicpow.com/favicon-32x32.png
   logoUrl: https://tonicpow.com/images/tp_logo.svg
   name: TonicPow Status
-  introTitle: "**TonicPow System Status**"
+  introTitle: "**System Status**"
   introMessage: View the live TonicPow network uptime, incidents and planned maintenance.
   customHeadHtml: "<!-- Custom HTML to add in the <head> tag -->"
   customBodyHtml: "<!-- Custom HTML to add at the beginning of <body> -->"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Contact
+      href: https://tonicpow.com/#contact
+    - title: Code
       href: https://github.com/$OWNER/$REPO
+
+# Internationalization
+i18n:
+  footer: Back to [TonicPow](https://tonicpow.com)
