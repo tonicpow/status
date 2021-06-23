@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.tonicpow.com): <!--live status--> **🟩 All systems operational**
 
-> Uptime monitor and status page for [TonicPow](https://tonicpow.com)
+> Uptime monitor and status page for [TonicPow](https://tonicpow.com/?utm_source=github&utm_medium=github_repo&utm_campaign=status&utm_term=status&utm_content=status)
 
 [![Uptime CI](https://github.com/tonicpow/status/workflows/Uptime%20CI/badge.svg)](https://github.com/tonicpow/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/tonicpow/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/tonicpow/status/actions?query=workflow%3A%22Response+Time+CI%22)

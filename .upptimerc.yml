@@ -78,7 +78,15 @@ status-website:
     }();
     drift.SNIPPET_VERSION = "0.3.1";
     drift.load("ahmbhf2mwf2b");
-  </script>'
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RG8TJ0TLGE"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config","G-RG8TJ0TLGE");
+  </script>
+  '
   customBodyHtml: "<!-- Custom HTML to add at the beginning of <body> -->"
   navbar:
     - title: Status
@@ -90,4 +98,4 @@ status-website:
 
 # Internationalization
 i18n:
-  footer: © 2021 [TonicPow](https://tonicpow.com), Inc. All rights reserved.
+  footer: © 2021 [TonicPow](https://tonicpow.com/?utm_source=status_page&utm_medium=status_page&utm_campaign=footer&utm_term=footer&utm_content=footer), Inc. All rights reserved.
