@@ -16,19 +16,19 @@ skipDescriptionUpdate: true
 
 # Report on sites
 sites:
-  - name: TonicPow Website
+  - name: Website
     url: https://tonicpow.com
     icon: https://tonicpow.com/favicon-32x32.png
     maxResponseTime: 8000
     expectedStatusCodes:
       - 200
-  - name: TonicPow API
+  - name: API
     url: https://api.tonicpow.com
     icon: https://tonicpow.com/favicon-32x32.png
     maxResponseTime: 4000
     expectedStatusCodes:
       - 200
-  - name: TonicPow Short-Link Service
+  - name: Short-Link Service
     url: https://tpow.app
     icon: https://tonicpow.com/favicon-32x32.png
     maxResponseTime: 8000
@@ -36,17 +36,17 @@ sites:
       - 200
       - 301
       - 302
-  - name: GoBitcoinSV
-    url: https://gobitcoinsv.com
-    icon: https://gobitcoinsv.com/favicon.ico
+  - name: Documentation
+    url: https://docs.tonicpow.com
+    icon: https://tonicpow.com/favicon-32x32.png
     maxResponseTime: 8000
     expectedStatusCodes:
       - 200
 
 # Status website configuration
 status-website:
-  # theme: dark
-  themeUrl: https://status.tonicpow.com/custom-theme.css
+  theme: dark
+  # themeUrl: https://status.tonicpow.com/custom-theme.css
   cname: status.tonicpow.com
   favicon: https://tonicpow.com/favicon-32x32.png
   logoUrl: https://tonicpow.com/images/tp_logo.svg
