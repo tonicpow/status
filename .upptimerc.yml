@@ -23,11 +23,11 @@ sites:
     expectedStatusCodes:
       - 200
   - name: TonicPow API
-      url: https://api.tonicpow.com
-      icon: https://tonicpow.com/favicon-32x32.png
-      maxResponseTime: 4000
-      expectedStatusCodes:
-        - 200
+    url: https://api.tonicpow.com
+    icon: https://tonicpow.com/favicon-32x32.png
+    maxResponseTime: 4000
+    expectedStatusCodes:
+      - 200
   - name: Tpow Link Service
     url: https://tpow.app
     icon: https://tonicpow.com/favicon-32x32.png
