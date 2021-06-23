@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.tonicpow.com): <!--live status--> **🟩 All systems operational**
 
-Uptime monitor and status page for [TonicPow](https://tonicpow.com), powered by [Upptime](https://github.com/upptime/upptime).
+Uptime monitor and status page for [TonicPow](https://tonicpow.com)
 
 [![Uptime CI](https://github.com/tonicpow/status/workflows/Uptime%20CI/badge.svg)](https://github.com/tonicpow/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/tonicpow/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/tonicpow/status/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -22,6 +22,27 @@ Uptime monitor and status page for [TonicPow](https://tonicpow.com), powered by 
 <!--end: status pages-->
 
 [**Visit our status website →**](https://status.tonicpow.com)
+
+## Maintainers
+
+| [<img src="https://github.com/mrz1836.png" height="50" alt="MrZ" />](https://github.com/mrz1836) | 
+| :----------------------------------------------------------------------------------------------: | 
+|                                [MrZ](https://github.com/mrz1836)                                 |
+
+<br/>
+
+## Contributing
+
+View the [contributing guidelines](CONTRIBUTING.md) and follow the [code of conduct](CODE_OF_CONDUCT.md).
+
+### How can I help?
+
+All kinds of contributions are welcome :raised_hands:!
+The most basic way to show your support is to star :star2: the project, or to raise issues :speech_balloon:.
+You can also support this project by [becoming a sponsor on GitHub](https://github.com/sponsors/TonicPow) :clap:
+or by making a [**bitcoin donation**](https://tonicpow.com/?utm_source=github&utm_medium=sponsor-link&utm_campaign=status&utm_term=status&utm_content=status) to ensure this journey continues indefinitely! :rocket:
+
+<br/>
 
 ## 📄 License
 
