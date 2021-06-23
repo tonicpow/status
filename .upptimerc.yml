@@ -16,7 +16,7 @@ skipDescriptionUpdate: true
 
 # Report on sites
 sites:
-  - name: TonicPow
+  - name: TonicPow Website
     url: https://tonicpow.com
     icon: https://tonicpow.com/favicon-32x32.png
     maxResponseTime: 8000
@@ -28,7 +28,7 @@ sites:
     maxResponseTime: 4000
     expectedStatusCodes:
       - 200
-  - name: Tpow Link Service
+  - name: TonicPow Short-Link Service
     url: https://tpow.app
     icon: https://tonicpow.com/favicon-32x32.png
     maxResponseTime: 8000
@@ -45,7 +45,8 @@ sites:
 
 # Status website configuration
 status-website:
-  theme: dark
+  # theme: dark
+  themeUrl: https://status.tonicpow.com/custom-theme.css
   cname: status.tonicpow.com
   favicon: https://tonicpow.com/favicon-32x32.png
   logoUrl: https://tonicpow.com/images/tp_logo.svg
