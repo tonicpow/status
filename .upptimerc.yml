@@ -92,7 +92,7 @@ status-website:
     - title: Status
       href: /
     - title: Contact
-      href: 'javascript:drift.api.widget.show()'
+      href: 'javascript:drift.api.openChat();'
     - title: Slack
       href: https://join.slack.com/t/tonicpow/shared_invite/zt-mlccqx28-IEabvOGPx_QLyFJJbWE3hQ
 
