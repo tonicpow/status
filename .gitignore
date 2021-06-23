@@ -1,0 +1,16 @@
+# Logs
+logs
+*.log
+
+# dotenv environment variables file
+.env
+
+# WebStorm
+.idea
+.DS_Store
+todo.md
+
+# Deployment
+dist
+coverage
+module
