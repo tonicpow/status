@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.tonicpow.com): <!--live status--> **🟩 All systems operational**
+# [<img alt="" src="https://tonicpow.com/favicon-32x32.png" height="28"> Live Status&nbsp;&nbsp;&nbsp;&nbsp;](https://status.tonicpow.com) <!--live status--> **🟩 All systems operational**
 
 > Uptime monitor and status page for [TonicPow](https://tonicpow.com/?utm_source=github&utm_medium=github_repo&utm_campaign=status&utm_term=status&utm_content=status)
 
@@ -46,8 +46,8 @@ or by making a [**bitcoin donation**](https://tonicpow.com/?utm_source=github&ut
 
 <br/>
 
-## 📄 License
+## License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [TonicPow](https://tonicpow.com)
+- Code: [MIT](./LICENSE) © [Upptime](https://github.com/upptime/upptime) & [TonicPow](https://tonicpow.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
