@@ -59,6 +59,15 @@ status-website:
   favicon: https://tonicpow.com/favicon-32x32.png
   logoUrl: https://tonicpow.com/images/tp_logo.svg
   name: TonicPow Status
+  metaTags:
+    - name: "application-name"
+      content: "TonicPow Status"
+    - name: "robots"
+      content: "index, follow"
+    - name: "description"
+      content: "View the live TonicPow network uptime, incidents and planned maintenance. Contact support about issues, bugs or outages."
+    - name: "keywords"
+      content: "uptime, tonicpow, network, incidents, planned maintenance, support"
   introTitle: "**System Status**"
   introMessage: View the live TonicPow network uptime, incidents and planned maintenance.
   links:
