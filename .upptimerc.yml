@@ -73,7 +73,8 @@ status-website:
   links:
     - rel: stylesheet
       #href: https://raw.githubusercontent.com/tonicpow/status/master/assets/custom-theme.css
-      href: https://rawcdn.githack.com/tonicpow/status/5d479334ab3304a93743aacae3d566fb05b96268/assets/custom-theme.css
+      #href: https://rawcdn.githack.com/tonicpow/status/5d479334ab3304a93743aacae3d566fb05b96268/assets/custom-theme.css
+      href: https://raw.githack.com/tonicpow/status/master/assets/custom-theme.css
   customHeadHtml: '
   <script>
     "use strict";
