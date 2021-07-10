@@ -58,7 +58,7 @@
     "url": "https://docs.tonicpow.com",
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 1076,
     "timeMonth": 1330,
     "timeYear": 1330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-10": 0
+    }
   }
 ]
