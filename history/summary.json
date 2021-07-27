@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 328,
+    "time": 218,
+    "timeDay": 172,
     "timeWeek": 245,
-    "timeMonth": 208,
-    "timeYear": 219,
+    "timeMonth": 209,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 190,
-    "timeWeek": 208,
-    "timeMonth": 259,
-    "timeYear": 265,
+    "time": 264,
+    "timeDay": 202,
+    "timeWeek": 216,
+    "timeMonth": 250,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 445,
-    "timeWeek": 266,
-    "timeMonth": 321,
-    "timeYear": 332,
+    "time": 329,
+    "timeDay": 227,
+    "timeWeek": 278,
+    "timeMonth": 311,
+    "timeYear": 329,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,16 @@
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "documentation",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1185,
-    "timeDay": 824,
-    "timeWeek": 816,
-    "timeMonth": 982,
-    "timeYear": 1185,
-    "dailyMinutesDown": {
-      "2021-07-26": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1179,
+    "timeDay": 818,
+    "timeWeek": 842,
+    "timeMonth": 990,
+    "timeYear": 1179,
+    "dailyMinutesDown": {}
   }
 ]
