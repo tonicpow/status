@@ -48,21 +48,21 @@ pull_request_rules:
       - label=automerge
     actions:
       comment:
-        message: "[✅] @{{author}}: **{{title}}** has been merged successfully."
+        message: "✅ @{{author}}: **{{title}}** has been merged successfully."
   - name: Alert on merge conflict
     conditions:
       - conflict
       - label=automerge
     actions:
       comment:
-        message: "[🆘] @{{author}}: `{{head}}` has conflicts with `{{base}}` that must be resolved."
+        message: "🆘 @{{author}}: `{{head}}` has conflicts with `{{base}}` that must be resolved."
   - name: Alert on tests failure for automerge
     conditions:
       - label=automerge
       - status-failure=commit
     actions:
       comment:
-        message: "[🆘] @{{author}}: unable to merge due to CI failure."
+        message: "🆘 @{{author}}: unable to merge due to CI failure."
 
   # ===============================================================================
   # LABELS
@@ -139,8 +139,10 @@ pull_request_rules:
   - name: Welcome New Contributors
     conditions:
       - and:
-          - author!=dependabot
+          - author!=dependabot[bot]
+          - author!=mergify[bot]
           - author!=mrz1836
+          - author!=upptime-bot[bot]
           - author!=upptime-bot
     actions:
       comment:
