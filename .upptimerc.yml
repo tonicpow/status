@@ -26,26 +26,18 @@ workflowSchedule:
 
 # Report on sites or endpoints
 sites:
-  - name: Website (Hosting)
-    url: https://tonicpow.com
-    icon: https://tonicpow.com/favicon-32x32.png
-    maxResponseTime: 8000
-    assignees:
-      - mrz1836
-    expectedStatusCodes:
-      - 200
-  - name: Website (Server)
-    url: $WEB_SERVER_URL
-    icon: https://tonicpow.com/favicon-32x32.png
-    maxResponseTime: 4000
-    assignees:
-      - mrz1836
-    expectedStatusCodes:
-      - 200
   - name: API
     url: $API_URL
     icon: https://tonicpow.com/favicon-32x32.png
     maxResponseTime: 4000
+    assignees:
+      - mrz1836
+    expectedStatusCodes:
+      - 200
+  - name: Documentation
+    url: https://docs.tonicpow.com
+    icon: https://tonicpow.com/favicon-32x32.png
+    maxResponseTime: 8000
     assignees:
       - mrz1836
     expectedStatusCodes:
@@ -60,10 +52,18 @@ sites:
       - 200
       - 301
       - 302
-  - name: Documentation
-    url: https://docs.tonicpow.com
+  - name: Website (Hosting)
+    url: https://tonicpow.com
     icon: https://tonicpow.com/favicon-32x32.png
     maxResponseTime: 8000
+    assignees:
+      - mrz1836
+    expectedStatusCodes:
+      - 200
+  - name: Website (Server)
+    url: $WEB_SERVER_URL
+    icon: https://tonicpow.com/favicon-32x32.png
+    maxResponseTime: 4000
     assignees:
       - mrz1836
     expectedStatusCodes:
