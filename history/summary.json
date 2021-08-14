@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 168,
-    "timeWeek": 272,
-    "timeMonth": 257,
-    "timeYear": 264,
+    "time": 267,
+    "timeDay": 480,
+    "timeWeek": 275,
+    "timeMonth": 258,
+    "timeYear": 267,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "documentation",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1031,
-    "timeDay": 794,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1030,
+    "timeDay": 528,
     "timeWeek": 813,
-    "timeMonth": 733,
-    "timeYear": 1031,
-    "dailyMinutesDown": {
-      "2021-08-13": 15
-    }
+    "timeMonth": 734,
+    "timeYear": 1030,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Short-Link Service",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 83,
-    "timeWeek": 256,
-    "timeMonth": 288,
-    "timeYear": 314,
+    "time": 315,
+    "timeDay": 373,
+    "timeWeek": 248,
+    "timeMonth": 284,
+    "timeYear": 315,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 115,
-    "timeWeek": 227,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "time": 263,
+    "timeDay": 442,
+    "timeWeek": 263,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 193,
-    "timeWeek": 218,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "time": 247,
+    "timeDay": 395,
+    "timeWeek": 247,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   }
 ]
