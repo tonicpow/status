@@ -22,19 +22,19 @@
     "url": "https://docs.tonicpow.com",
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "documentation",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1081,
-    "timeDay": 5237,
-    "timeWeek": 1810,
-    "timeMonth": 966,
-    "timeYear": 1081,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1074,
+    "timeDay": 3624,
+    "timeWeek": 1653,
+    "timeMonth": 952,
+    "timeYear": 1074,
     "dailyMinutesDown": {
-      "2021-08-28": 0
+      "2021-08-28": 12
     }
   },
   {
