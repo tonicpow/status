@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 83,
-    "timeWeek": 202,
-    "timeMonth": 194,
-    "timeYear": 249,
+    "time": 248,
+    "timeDay": 119,
+    "timeWeek": 180,
+    "timeMonth": 191,
+    "timeYear": 248,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "documentation",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1102,
-    "timeDay": 1080,
-    "timeWeek": 868,
-    "timeMonth": 1371,
-    "timeYear": 1102,
-    "dailyMinutesDown": {
-      "2021-09-26": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1099,
+    "timeDay": 1125,
+    "timeWeek": 855,
+    "timeMonth": 1373,
+    "timeYear": 1099,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Short-Link Service",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 70,
-    "timeWeek": 160,
+    "time": 267,
+    "timeDay": 80,
+    "timeWeek": 140,
     "timeMonth": 166,
-    "timeYear": 269,
+    "timeYear": 267,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 196,
-    "timeDay": 138,
-    "timeWeek": 209,
-    "timeMonth": 174,
-    "timeYear": 196,
+    "time": 194,
+    "timeDay": 99,
+    "timeWeek": 198,
+    "timeMonth": 172,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2021-09-20": 9
     }
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 123,
-    "timeWeek": 171,
-    "timeMonth": 175,
-    "timeYear": 202,
+    "time": 200,
+    "timeDay": 98,
+    "timeWeek": 156,
+    "timeMonth": 173,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   }
 ]
