@@ -22,18 +22,20 @@
     "url": "https://docs.tonicpow.com",
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "documentation",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1092,
-    "timeDay": 780,
-    "timeWeek": 785,
-    "timeMonth": 1149,
-    "timeYear": 1092,
-    "dailyMinutesDown": {}
+    "time": 1185,
+    "timeDay": 6862,
+    "timeWeek": 2136,
+    "timeMonth": 1486,
+    "timeYear": 1185,
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   },
   {
     "name": "Short-Link Service",
