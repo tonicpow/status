@@ -1,6 +1,6 @@
 # Make sure to check the documentation at http://goreleaser.com
 # ---------------------------
-# GENERAL
+# General
 # ---------------------------
 snapshot:
   name_template: "{{ .Tag }}"
@@ -14,10 +14,11 @@ changelog:
       - '^history:'
 
 # ---------------------------
-# BUILDER
+# Builder
 # ---------------------------
 build:
   skip: true
+
 # ---------------------------
 # Github Release
 # ---------------------------
