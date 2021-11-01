@@ -22,9 +22,9 @@
     "url": "https://docs.tonicpow.com",
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 758,
     "timeMonth": 884,
     "timeYear": 1110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-01": 0
+    }
   },
   {
     "name": "Short-Link Service",
