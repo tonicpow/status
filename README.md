@@ -8,7 +8,7 @@
 <br/>
 [![Static Site CI](https://github.com/tonicpow/status/workflows/Static%20Site%20CI/badge.svg)](https://github.com/tonicpow/status/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/tonicpow/status/workflows/Summary%20CI/badge.svg)](https://github.com/tonicpow/status/actions?query=workflow%3A%22Summary+CI%22)
-[![Mergify Status](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/tonicpow/status&style=flat&v=1)](https://mergify.io)
+[![Mergify Status](https://img.shields.io/endpoint.svg?url=https://api.mergify.com/v1/badges/tonicpow/status&style=flat&v=1)](https://mergify.io)
 <br>
 <br>
 
