@@ -1,7 +1,7 @@
 url: https://docs.tonicpow.com
-status: degraded
-code: 500
-responseTime: 10397
-lastUpdated: 2023-03-20T18:34:39.179Z
+status: up
+code: 200
+responseTime: 649
+lastUpdated: 2023-03-20T18:43:39.922Z
 startTime: Wed Jun 23 2021 19:13:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
