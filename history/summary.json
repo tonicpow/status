@@ -4,18 +4,20 @@
     "url": "$API_URL",
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 126,
-    "timeWeek": 136,
-    "timeMonth": 210,
-    "timeYear": 232,
-    "dailyMinutesDown": {}
+    "time": 237,
+    "timeDay": 1849,
+    "timeWeek": 566,
+    "timeMonth": 315,
+    "timeYear": 242,
+    "dailyMinutesDown": {
+      "2023-04-10": 0
+    }
   },
   {
     "name": "Documentation",
