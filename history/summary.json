@@ -64,19 +64,19 @@
     "url": "https://tonicpow.com",
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "website-hosting",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 194,
-    "timeWeek": 153,
-    "timeMonth": 165,
+    "timeDay": 234,
+    "timeWeek": 168,
+    "timeMonth": 168,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2023-11-17": 0
+      "2023-11-17": 21
     }
   },
   {
