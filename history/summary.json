@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 229,
-    "timeDay": 350,
-    "timeWeek": 330,
-    "timeMonth": 254,
-    "timeYear": 232,
+    "time": 230,
+    "timeDay": 397,
+    "timeWeek": 365,
+    "timeMonth": 262,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2023-04-10": 391
     }
@@ -30,14 +30,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 793,
-    "timeDay": 1282,
-    "timeWeek": 826,
-    "timeMonth": 793,
-    "timeYear": 819,
-    "dailyMinutesDown": {
-      "2023-03-20": 58
-    }
+    "time": 794,
+    "timeDay": 947,
+    "timeWeek": 844,
+    "timeMonth": 774,
+    "timeYear": 820,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Short-Link Service",
@@ -51,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 381,
-    "timeWeek": 282,
-    "timeMonth": 208,
-    "timeYear": 194,
+    "timeDay": 342,
+    "timeWeek": 320,
+    "timeMonth": 217,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 310,
-    "timeWeek": 190,
-    "timeMonth": 176,
+    "timeDay": 53,
+    "timeWeek": 186,
+    "timeMonth": 175,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2023-11-17": 21
@@ -89,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 327,
-    "timeWeek": 281,
-    "timeMonth": 225,
+    "timeDay": 430,
+    "timeWeek": 327,
+    "timeMonth": 232,
     "timeYear": 205,
     "dailyMinutesDown": {}
   }
