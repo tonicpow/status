@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 289,
-    "timeWeek": 248,
-    "timeMonth": 217,
-    "timeYear": 224,
+    "timeDay": 196,
+    "timeWeek": 258,
+    "timeMonth": 210,
+    "timeYear": 223,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://docs.tonicpow.com",
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 812,
-    "timeDay": 1179,
-    "timeWeek": 888,
-    "timeMonth": 877,
-    "timeYear": 823,
-    "dailyMinutesDown": {}
+    "timeDay": 675,
+    "timeWeek": 822,
+    "timeMonth": 865,
+    "timeYear": 822,
+    "dailyMinutesDown": {
+      "2024-05-22": 0
+    }
   },
   {
     "name": "Short-Link Service",
@@ -47,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 352,
-    "timeWeek": 215,
-    "timeMonth": 175,
+    "timeDay": 80,
+    "timeWeek": 213,
+    "timeMonth": 166,
     "timeYear": 190,
     "dailyMinutesDown": {}
   },
@@ -65,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 326,
-    "timeWeek": 261,
-    "timeMonth": 363,
+    "timeDay": 137,
+    "timeWeek": 259,
+    "timeMonth": 205,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2023-11-17": 21
@@ -85,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 275,
-    "timeWeek": 241,
-    "timeMonth": 205,
+    "timeDay": 94,
+    "timeWeek": 225,
+    "timeMonth": 195,
     "timeYear": 206,
     "dailyMinutesDown": {}
   }
