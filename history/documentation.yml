@@ -1,7 +1,7 @@
 url: https://docs.tonicpow.com
-status: down
+status: degraded
 code: 502
-responseTime: 1484
-lastUpdated: 2024-05-23T08:44:41.413Z
+responseTime: 11091
+lastUpdated: 2024-05-23T09:16:54.711Z
 startTime: 2021-06-23T19:13:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
