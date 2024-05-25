@@ -22,18 +22,19 @@
     "url": "https://docs.tonicpow.com",
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "85.31%",
     "uptimeMonth": "96.62%",
     "uptimeYear": "99.72%",
-    "time": 978,
+    "time": 979,
     "timeDay": 553,
     "timeWeek": 4619,
     "timeMonth": 2647,
     "timeYear": 1032,
     "dailyMinutesDown": {
+      "2024-05-25": 0,
       "2024-05-23": 838,
       "2024-05-22": 642
     }
