@@ -65,9 +65,9 @@
     "url": "https://tonicpow.com",
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "website-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,6 +77,7 @@
     "timeMonth": 181,
     "timeYear": 190,
     "dailyMinutesDown": {
+      "2024-11-07": 0,
       "2023-11-17": 21
     }
   },
