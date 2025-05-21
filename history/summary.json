@@ -4,9 +4,9 @@
     "url": "$API_URL",
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 243,
     "timeMonth": 261,
     "timeYear": 246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-21": 0
+    }
   },
   {
     "name": "Documentation",
@@ -50,9 +52,9 @@
     "url": "$LINK_SERVICE_URL",
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "short-link-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -61,7 +63,9 @@
     "timeWeek": 227,
     "timeMonth": 246,
     "timeYear": 226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-21": 0
+    }
   },
   {
     "name": "Website (Hosting)",
@@ -69,18 +73,18 @@
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "website-hosting",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "92.98%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.98%",
     "time": 186,
     "timeDay": 200,
     "timeWeek": 182,
     "timeMonth": 179,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2025-05-21": 0
+      "2025-05-21": 101
     }
   },
   {
@@ -88,9 +92,9 @@
     "url": "$WEB_SERVER_URL",
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "website-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -99,6 +103,8 @@
     "timeWeek": 202,
     "timeMonth": 231,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-21": 0
+    }
   }
 ]
