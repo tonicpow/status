@@ -5,18 +5,19 @@
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "api",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "89.97%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.97%",
-    "time": 239,
-    "timeDay": 377,
-    "timeWeek": 243,
-    "timeMonth": 261,
+    "uptime": "99.96%",
+    "uptimeDay": "72.47%",
+    "uptimeWeek": "96.07%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.92%",
+    "time": 240,
+    "timeDay": 0,
+    "timeWeek": 258,
+    "timeMonth": 265,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2025-05-21": 144
+      "2025-05-22": 11,
+      "2025-05-21": 385
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "documentation",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.66%",
-    "time": 1025,
-    "timeDay": 1053,
-    "timeWeek": 773,
-    "timeMonth": 870,
-    "timeYear": 1118,
+    "uptime": "99.89%",
+    "uptimeDay": "82.39%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.61%",
+    "time": 1026,
+    "timeDay": 0,
+    "timeWeek": 787,
+    "timeMonth": 876,
+    "timeYear": 1119,
     "dailyMinutesDown": {
-      "2025-05-21": 2,
+      "2025-05-22": 11,
+      "2025-05-21": 242,
       "2025-05-07": 41,
       "2025-05-06": 28,
       "2025-03-07": 21,
@@ -44,8 +46,7 @@
       "2024-09-02": 20,
       "2024-08-10": 106,
       "2024-06-10": 51,
-      "2024-05-23": 838,
-      "2024-05-22": 642
+      "2024-05-23": 838
     }
   },
   {
@@ -54,18 +55,19 @@
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "short-link-service",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "89.96%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "72.47%",
+    "uptimeWeek": "96.07%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.92%",
     "time": 213,
-    "timeDay": 256,
-    "timeWeek": 227,
-    "timeMonth": 246,
+    "timeDay": 0,
+    "timeWeek": 228,
+    "timeMonth": 251,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-05-21": 145
+      "2025-05-22": 11,
+      "2025-05-21": 385
     }
   },
   {
@@ -74,18 +76,19 @@
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "website-hosting",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "82.95%",
-    "uptimeWeek": "97.56%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.95%",
-    "time": 186,
-    "timeDay": 200,
-    "timeWeek": 182,
-    "timeMonth": 179,
+    "uptime": "99.97%",
+    "uptimeDay": "65.46%",
+    "uptimeWeek": "95.07%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "99.91%",
+    "time": 187,
+    "timeDay": 120,
+    "timeWeek": 172,
+    "timeMonth": 175,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2025-05-21": 245
+      "2025-05-22": 11,
+      "2025-05-21": 486
     }
   },
   {
@@ -94,18 +97,19 @@
     "icon": "https://tonicpow.com/favicon-32x32.png",
     "slug": "website-server",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "89.96%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "72.47%",
+    "uptimeWeek": "96.07%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.92%",
     "time": 216,
-    "timeDay": 272,
-    "timeWeek": 202,
-    "timeMonth": 231,
+    "timeDay": 0,
+    "timeWeek": 213,
+    "timeMonth": 235,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-05-21": 145
+      "2025-05-22": 11,
+      "2025-05-21": 385
     }
   }
 ]
